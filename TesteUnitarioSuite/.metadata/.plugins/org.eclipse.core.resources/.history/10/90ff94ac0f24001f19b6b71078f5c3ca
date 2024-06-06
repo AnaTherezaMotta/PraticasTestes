@@ -1,0 +1,29 @@
+package entidade;
+
+import static org.junit.Assert.*;
+
+import org.junit.Before;
+import org.junit.Test;
+
+public class OperacoesTeste {
+
+	@Before
+	public void setUp() throws Exception {
+	}
+
+	@Test
+	public void testMaiorValor() {
+		fail("Not yet implemented");
+	}
+
+	@Test
+	public void testMenorValor() {
+		fail("Not yet implemented");
+	}
+
+	@Test
+	public void testProduto() {
+		fail("Not yet implemented");
+	}
+
+}

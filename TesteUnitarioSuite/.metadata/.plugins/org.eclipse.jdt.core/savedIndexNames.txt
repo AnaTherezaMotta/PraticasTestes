@@ -1,0 +1,6 @@
+INDEX VERSION 1.134+C:\Users\321118508\Downloads\PraticaTeste\TesteUnitarioSuite\.metadata\.plugins\org.eclipse.jdt.core
+1601514001.index
+3959137331.index
+3832677207.index
+1865797976.index
+2970249790.index
